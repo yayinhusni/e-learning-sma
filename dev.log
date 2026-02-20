@@ -1,0 +1,39 @@
+▲ Next.js 16.1.3 (Turbopack)
+- Local:         http://localhost:3000
+- Network:       http://21.0.14.101:3000
+- Environments: .env
+
+✓ Starting...
+Attention: Next.js now collects completely anonymous telemetry regarding usage.
+This information is used to shape Next.js' roadmap and prioritize features.
+You can learn more, including how to opt-out if you'd not like to participate in this anonymous program, by visiting the following URL:
+https://nextjs.org/telemetry
+
+✓ Ready in 923ms
+⚠ Unsupported metadata viewport is configured in metadata export in /. Please move it to viewport export instead.
+Read more: https://nextjs.org/docs/app/api-reference/functions/generate-viewport
+⚠ Unsupported metadata viewport is configured in metadata export in /. Please move it to viewport export instead.
+Read more: https://nextjs.org/docs/app/api-reference/functions/generate-viewport
+ GET / 200 in 3.1s (compile: 2.9s, render: 184ms)
+⚠ Unsupported metadata viewport is configured in metadata export in /. Please move it to viewport export instead.
+Read more: https://nextjs.org/docs/app/api-reference/functions/generate-viewport
+ GET / 200 in 59ms (compile: 3ms, render: 57ms)
+ GET / 200 in 3.0s (compile: 2.7s, render: 312ms)
+⚠ Cross origin request detected from preview-chat-90ca929e-f3a6-41e7-a8fa-c4b09016cd7c.space.z.ai to /_next/* resource. In a future major version of Next.js, you will need to explicitly configure "allowedDevOrigins" in next.config to allow this.
+Read more: https://nextjs.org/docs/app/api-reference/config/next-config-js/allowedDevOrigins
+⚠ Unsupported metadata viewport is configured in metadata export in /. Please move it to viewport export instead.
+Read more: https://nextjs.org/docs/app/api-reference/functions/generate-viewport
+ GET / 200 in 46ms (compile: 3ms, render: 42ms)
+✓ Compiled in 222ms
+ GET / 200 in 79ms (compile: 48ms, render: 32ms)
+✓ Compiled in 169ms
+✓ Compiled in 147ms
+ GET / 200 in 61ms (compile: 38ms, render: 23ms)
+ GET / 200 in 101ms (compile: 2ms, render: 99ms)
+ GET / 200 in 40ms (compile: 1675µs, render: 39ms)
+✓ Compiled in 123ms
+✓ Compiled in 120ms
+ GET / 200 in 164ms (compile: 48ms, render: 116ms)
+ GET / 200 in 66ms (compile: 4ms, render: 62ms)
+ GET / 200 in 65ms (compile: 3ms, render: 62ms)
+ GET / 200 in 52ms (compile: 5ms, render: 46ms)
